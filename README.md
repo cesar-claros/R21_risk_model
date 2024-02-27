@@ -16,10 +16,3 @@ Measurements are taken across four time points— `Baseline`, `Acute` (<48 hours
 - [Model training](notebooks/model_training.ipynb)
 - [Model evaluation](notebooks/model_evaluation.ipynb)
 
-## Results
-<object data="figs/r21_timeline.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
